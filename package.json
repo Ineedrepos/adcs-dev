@@ -3,7 +3,7 @@
 	"description": "Development version for adcs.ro",
 	"version": "3.0.0",
 	"license": "MIT",
-	"homepage": "https://adcs-dev.cvic.workers.dev",
+	"homepage": "https://cautare-salvare.ro",
 	"engines": {
 		"node": ">=20"
 	},
@@ -15,13 +15,13 @@
 		"format": "prettier -w ./src"
 	},
 	"dependencies": {
-		"@astrojs/check": "^0.9.4",
-		"@astrojs/cloudflare": "^12.6.3",
-		"@astrojs/mdx": "^4.2.4",
-		"@astrojs/rss": "^4.0.11",
-		"@astrojs/sitemap": "^3.3.0",
+		"@astrojs/check": "^0.9.5",
+		"@astrojs/cloudflare": "^12.6.10",
+		"@astrojs/mdx": "^4.3.10",
+		"@astrojs/rss": "^4.0.13",
+		"@astrojs/sitemap": "^3.6.0",
 		"@tailwindcss/vite": "^4.1.12",
-		"astro": "^5.7.3",
+		"astro": "^5.15.8",
 		"pagefind": "^1.0.4",
 		"prettier": "^3.0.1",
 		"prettier-plugin-astro": "^0.11.0",

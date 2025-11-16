@@ -10,7 +10,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   // Set your site's URL
-  site: 'https://adcs-dev.cvic.workers.dev',
+  site: 'https://cautare-salvare.ro',
 
   i18n: {
     defaultLocale: DEFAULT_LOCALE_SETTING,
